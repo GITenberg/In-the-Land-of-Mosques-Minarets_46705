@@ -1,4 +1,5 @@
 _repo: In-the-Land-of-Mosques-Minarets_46705
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: McManus, Blanche
@@ -9,6 +10,9 @@ contributor:
     deathdate: 1935
     gutenberg_agent_id: '31610'
     url: http://www.gutenberg.org/2009/agents/31610
+covers:
+- cover_type: archival
+  image_path: 46705-h/images/cover.jpg
 creator:
   author:
     agent_name: Mansfield, M. F. (Milburg Francisco)
@@ -20,6 +24,8 @@ creator:
     gutenberg_agent_id: '31606'
     url: http://www.gutenberg.org/2009/agents/31606
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46705#In-the-Land-of-Mosques-Minarets
 gutenberg_issued: '2014-08-27'
 gutenberg_type: Text
 identifiers:
